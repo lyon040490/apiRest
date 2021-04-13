@@ -8,7 +8,7 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>. <!-- Cambios pom -->
-	<groupId>com.servicios</groupId>
+	<groupId>com.servicios</groupId>. <!--  Terce -->
 	<artifactId>services-login</artifactId>
 	<version>0.0.1</version>
 	<name>services-login</name>
