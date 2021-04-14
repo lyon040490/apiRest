@@ -10,7 +10,7 @@
 	</parent>. <!-- Cambios pom -->
 	<groupId>com.servicios</groupId>
 	<artifactId>services-login</artifactId> <!-- mas cambios -->
-	<version>0.0.1</version>
+	<!-- <version>0.0.1</version>  -->
 	<name>services-login</name>
 	<description>Demo project for Spring Boot</description>
 
