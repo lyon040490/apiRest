@@ -9,5 +9,6 @@ public class ServicesLoginApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ServicesLoginApplication.class, args);
 	}
+/* se agregan propiedaedes */
 
 }
